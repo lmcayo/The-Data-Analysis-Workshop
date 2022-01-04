@@ -4,6 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Data-Analysis-Workshop.svg)](https://github.com/PacktWorkshops/The-Data-Analysis-Workshop/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Data-Analysis-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lmcayo/The-Data-Analysis-Workshop/master)
 
 This is the repository for [The Data Analysis Workshop](https://www.amazon.com/Data-Analysis-Workshop-state-art-ebook/dp/B08Q8HXRQ4/ref=sr_1_1?dchild=1&keywords=The%20Data%20Analysis%20Workshop&qid=1610708839&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781839211386&utm_term=Data%20Analysis&utm_content=The%20Data%20Analysis%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
