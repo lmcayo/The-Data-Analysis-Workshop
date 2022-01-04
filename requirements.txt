@@ -5,5 +5,5 @@ scipy==1.3.2
 numpy==1.16.5
 statsmodels==0.10.1
 scikit-learn==1.0.2
-imblearn==0.6.2
+imbalanced-learn==0.8.1
 plotly==4.8.1
